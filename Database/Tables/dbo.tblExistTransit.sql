@@ -49,8 +49,6 @@ EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ApplicationID'
 GO
-EXEC sp_addextendedproperty N'GUID', N'ꠗ蝕⌓䶺ኋ摾굉韵', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ApplicationID'
-GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ApplicationID'
 GO
 EXEC sp_addextendedproperty N'MS_IMEMode', N'0', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ApplicationID'
@@ -86,8 +84,6 @@ GO
 EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'BusRoute'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'BusRoute'
-GO
-EXEC sp_addextendedproperty N'GUID', N'➣⵲䬖톜☥傉먡', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'BusRoute'
 GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'BusRoute'
 GO
@@ -125,8 +121,6 @@ EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'Counter'
 GO
-EXEC sp_addextendedproperty N'GUID', N'ꩈ￿㮸䚀ຆ藶�뽡', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'Counter'
-GO
 EXEC sp_addextendedproperty N'Name', N'Counter', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'Counter'
 GO
 EXEC sp_addextendedproperty N'OrdinalPosition', N'2', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'Counter'
@@ -154,8 +148,6 @@ GO
 EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'FinalDestination'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'FinalDestination'
-GO
-EXEC sp_addextendedproperty N'GUID', N'ђ幮丸蒗緯�偫', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'FinalDestination'
 GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'FinalDestination'
 GO
@@ -193,8 +185,6 @@ EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'LocalExpress'
 GO
-EXEC sp_addextendedproperty N'GUID', N'敵ḷ얕䈩ⶇ罥陖', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'LocalExpress'
-GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'LocalExpress'
 GO
 EXEC sp_addextendedproperty N'MS_IMEMode', N'0', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'LocalExpress'
@@ -231,8 +221,6 @@ EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'NumBusesHour'
 GO
-EXEC sp_addextendedproperty N'GUID', N'흃⯻刡䨬뾚䣨쮴', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'NumBusesHour'
-GO
 EXEC sp_addextendedproperty N'MS_DecimalPlaces', N'255', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'NumBusesHour'
 GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'NumBusesHour'
@@ -264,8 +252,6 @@ GO
 EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'PrimaryDestination'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'PrimaryDestination'
-GO
-EXEC sp_addextendedproperty N'GUID', N'펀큥՛丝킢䴟垕㩪', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'PrimaryDestination'
 GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'PrimaryDestination'
 GO
@@ -303,8 +289,6 @@ EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ProjNo'
 GO
-EXEC sp_addextendedproperty N'GUID', N'쌦쎺螜䇒㺋撰䱎', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ProjNo'
-GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ProjNo'
 GO
 EXEC sp_addextendedproperty N'MS_IMEMode', N'0', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'ProjNo'
@@ -340,8 +324,6 @@ GO
 EXEC sp_addextendedproperty N'ColumnWidth', N'-1', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'TransitAgency'
 GO
 EXEC sp_addextendedproperty N'DataUpdatable', N'False', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'TransitAgency'
-GO
-EXEC sp_addextendedproperty N'GUID', N'⯞휟ꉹ䲏Ϻ熋Ⓣ', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'TransitAgency'
 GO
 EXEC sp_addextendedproperty N'MS_DisplayControl', N'109', 'SCHEMA', N'dbo', 'TABLE', N'tblExistTransit', 'COLUMN', N'TransitAgency'
 GO
