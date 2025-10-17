@@ -1,0 +1,5 @@
+CREATE ROLE [db_FC_updater]
+AUTHORIZATION [dbo]
+GO
+ALTER ROLE [db_FC_updater] ADD MEMBER [PSRC\Gary]
+GO

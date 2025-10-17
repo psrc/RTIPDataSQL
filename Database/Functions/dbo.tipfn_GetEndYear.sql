@@ -1,0 +1,16 @@
+SET QUOTED_IDENTIFIER ON
+GO
+SET ANSI_NULLS ON
+GO
+CREATE FUNCTION [dbo].[tipfn_GetEndYear] (
+	@TIPID smallint
+)
+RETURNS SMALLINT
+AS
+BEGIN
+	DECLARE @endYear smallint
+	SELECT @endYear = EndYear FROM tblTIPList where TIP_ID = @TIPID
+	
+RETURN @endYear
+END
+GO

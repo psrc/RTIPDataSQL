@@ -1,0 +1,3 @@
+CREATE ROLE [AwardRefEditor]
+AUTHORIZATION [dbo]
+GO
