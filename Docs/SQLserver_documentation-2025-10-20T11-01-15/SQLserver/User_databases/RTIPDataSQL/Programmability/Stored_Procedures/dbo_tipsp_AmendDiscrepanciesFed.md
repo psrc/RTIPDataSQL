@@ -1,0 +1,42 @@
+#### 
+
+[Project](../../../../../index.md) > [SQLserver](../../../../index.md) > [User databases](../../../index.md) > [RTIPDataSQL](../../index.md) > Programmability > [Stored Procedures](Stored_Procedures.md) > dbo.tipsp_AmendDiscrepanciesFed
+
+# ![Stored Procedures](../../../../../Images/StoredProcedure32.png) [dbo].[tipsp_AmendDiscrepanciesFed]
+
+---
+
+## <a name="#properties"></a>Properties
+
+| Property | Value |
+|---|---|
+| ANSI Nulls On | YES |
+| Quoted Identifier On | YES |
+
+
+---
+
+## <a name="#parameters"></a>Parameters
+
+| Name | Data Type | Max Length (Bytes) |
+|---|---|---|
+| @amend | varchar(50) | 50 |
+| @TIPID | smallint | 2 |
+
+
+---
+
+## <a name="#uses"></a>Uses
+
+* [[dbo].[fnCurrency]](../Functions/Scalar-valued_Functions/dbo_fnCurrency.md)
+* [[dbo].[tipfn_AmendDiscrepanciesFed]](../Functions/Table-valued_Functions/dbo_tipfn_AmendDiscrepanciesFed.md)
+
+
+---
+
+###### Author:  Chris Peak
+
+###### Copyright 2025 - All Rights Reserved
+
+###### Created: Monday, October 20, 2025 11:01:15 AM
+
